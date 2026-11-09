@@ -7,7 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/ususario")
+@RequestMapping("/usuario")
 @RequiredArgsConstructor
 public class UsuarioController {
 
